@@ -1,30 +1,30 @@
 # :sparkles: **CAMILA BETSABÉ REYES** :sparkles:
 # **Perfil**
 ### Me considero una persona meticulosa, prolija, autoexigente, y estructurada. En todos los ámbitos apuesto a más, lo que me lleva a esforzarme y alcanzar mis objetivos, no tuve ninguna experiencia laboral, pero estoy lista y dispuesta a adquirir una y dar lo mejor de mí.
-__________________________________________________________________________________________________
+___________________________________________________________________________
 # **Educación formal**
 ### Primaria: Escuela Río Negro San Francisco.
 ### Secundaria: Cursando tecnicatura en programación, Escuela Experimental PRoA San Francisco, Córdoba– 7to Año.
-__________________________________________________________________________________________________
+___________________________________________________________________________
 # **Manejo de herramientas**
 ### Word :star::star::star::star::star:
 ### Power Point :star::star::star::star::star:
 ### Excel :star::star::star:
-__________________________________________________________________________________________________
+___________________________________________________________________________
 # **Idiomas**
 ### Inglés: Escritura, lectura y habla (Nivel medio)
 ### Portugués: Escritura, lectura y habla (Nivel medio)
-__________________________________________________________________________________________________
+___________________________________________________________________________
 # **Objetivos**
 ### Mis objetivos trabajando en su empresa serian conseguir crecimiento personal y profesional con un buen trabajo en equipo y compañerismo con las demás personas con las que trabaje.
 ### Uno de mis objetivos a futuro es ser ingeniera en sistema de información y formarme en la Universidad UTN. 
-__________________________________________________________________________________________________
+___________________________________________________________________________
 # **Programación**
 ### Python       
 ### C++         
 ### PHP
 ### Visual Studio (JavaScript, CSS, HTML)
-__________________________________________________________________________________________________
+___________________________________________________________________________
 # **Competencias**
 ### Meticulosidad y prolijidad:
 ### Soy meticulosa y prolija tanto en tareas de diseño, literatura, como en otros ámbitos. Hasta que no me sienta satisfecha con el resultado buscado, continúo intentándolo hasta lograrlo.
